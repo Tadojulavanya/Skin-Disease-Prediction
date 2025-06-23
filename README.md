@@ -1,6 +1,9 @@
                                                                    Skin Disease Prediction                                       
 
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 Introduction:
 
 Skin diseases are a significant global health concern, affecting millions of people worldwide. Traditional diagnostic methods, such as visual inspection and biopsies, can be time-consuming and subjective. Recent advancements in artificial intelligence (AI), particularly deep learning, offer a promising solution for improving diagnostic accuracy and efficiency. This project aims to develop a deep learning model using convolutional neural networks (CNNs) to classify skin lesions from dermatological images, assisting dermatologists in early detection and treatment.
